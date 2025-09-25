@@ -1,0 +1,2 @@
+# Cooling-system-using-Blynk_MQTT-Raspberry-pi-4-
+this code uses Raspberry pi to take Temperature and Humidity readings from a sensor and give 3 states. state 1 where temp&lt;24 and no action is taken, state 2 24&lt;temp&lt;26 in this state a yello LED lights and a fan(DC motor)is on and state 3 temp > 26 a red led, a fan and a Buzzer is on. In addition, All these is connected to Blynk using MQTT ptotocol.
